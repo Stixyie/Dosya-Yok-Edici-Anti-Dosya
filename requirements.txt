@@ -1,0 +1,32 @@
+# Core Python Requirements
+python>=3.8,<3.12
+
+# GUI Framework
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.1
+PyQtWebEngine==6.6.1
+PyQtWebEngine-Qt6==6.6.1
+
+# Cryptography and Security
+cryptography==42.0.2
+pywin32==306
+ntsecuritycon==0.1.0
+
+# System and File Handling
+numpy==1.26.3
+setuptools>=65.5.1
+
+# Logging and Error Tracking
+logging==0.5.1.2
+
+# Optional: Performance and Additional Security
+secrets==1.0.2
+
+# Development and Testing
+pytest==7.4.4
+black==24.1.1
+mypy==1.8.0
+
+# Build and Distribution
+pyinstaller==6.3.0
