@@ -3,7 +3,7 @@
 
 ![alt text](https://img.shields.io/badge/Python-3.8+-brightgreen?style=for-the-badge&logo=python)
 
-![alt text](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![GPL-3.0 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 🛡️ Giriş
 Dosya Yok Edici (Anti-Dosya), dosyalarınızı güvenli bir şekilde şifreleyip, yok etmenizi sağlayan süper havalı bir araçtır. 🚀 Dosyalarınızın gizliliğini mi önemsiyorsunuz? O zaman doğru yerdesiniz! 🔒 Bu araç, dosyalarınızı çoklu şifreleme yöntemleriyle koruyarak, meraklı gözlerden uzak tutar. 👀
@@ -70,7 +70,12 @@ Log dosyalarını düzenli olarak kontrol etmeyi unutmayın. 🧐
 Hata bildirimlerinizi veya geliştirme önerilerinizi bekliyoruz! 💬 Lütfen GitHub üzerinden bir issue açın. 🛠️
 
 📄 Lisans
-Bu proje MIT lisansı altında dağıtılmaktadır. 📜 Detaylar için LICENSE dosyasına bakın.
+Bu proje GNU General Public License v3.0 (GPL-3.0) altında lisanslanmıştır. 
+
+Detaylar için LICENSE dosyasına bakın. Açık kaynak yazılım ruhuna uygun olarak, bu yazılımı özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz.
+
+🔗 Lisans Bağlantısı:
+- [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 🙏 Katkıda Bulunma
 Bu projeye katkıda bulunmak için fork yapıp, değişikliklerinizi içeren pull request gönderebilirsiniz. 🤝
