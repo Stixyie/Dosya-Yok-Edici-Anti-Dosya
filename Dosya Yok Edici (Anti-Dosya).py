@@ -652,7 +652,7 @@ class EncryptionManager(QObject):
 class StixyieDosyaYokEdici(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Stixyie Dosya Yok Edici (Anti-Dosya)")
+        self.setWindowTitle("Stixyie Dosya Yok Edici")
         self.resize(1200, 800)
 
         # Enable drag and drop for the main window
